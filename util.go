@@ -12,7 +12,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/adnsv/freetype/truetype"
+	"github.com/goki/freetype/truetype"
 
 	"golang.org/x/image/font"
 	"golang.org/x/image/math/fixed"
