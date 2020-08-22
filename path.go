@@ -3,7 +3,7 @@ package gg
 import (
 	"math"
 
-	"github.com/golang/freetype/raster"
+	"github.com/adnsv/freetype/raster"
 	"golang.org/x/image/math/fixed"
 )
 
